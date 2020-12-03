@@ -36,11 +36,11 @@ class Header extends React.Component {
                 <li><a href="#mission-section">Mission</a></li>
                 <li><a href="#products-section">Product</a></li>
                 <li><a href="#team-section">Team</a></li>
-                <li><a href="#blog-section">Blog</a></li>
+                {/* <li><a href="#blog-section">Blog</a></li> */}
               </ul>
             </div>
             <button className="contact-us">
-              <span className="d-block hide-mobile">Contact Us</span>
+              <span className="d-block hide-mobile"><a href="#footer">Contact Us</a></span>
               <span className="d-block show-mobile" onClick={ () => this.setState({ showMenuMobile: !this.state.showMenuMobile }) }>
                 <svg width="24" height="24" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
                   <path d="M2 6H22" stroke="white" stroke-opacity="1" stroke-width="1.2" stroke-linecap="round"/>
@@ -59,8 +59,8 @@ class Header extends React.Component {
           <img src="top-right.svg" alt=""/>
         </div>
         <div className="main-title-container">
-          <h1>LET MOVE DIGITAL</h1>
-          <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span>
+          <h2>LET DIGITAL LEAD THE WAY</h2>
+          <span>We make digital lead the way by bringing software applications to your daily life, We give analysed, designed, and implemented world-class applications.</span>
         </div>
       </div>
     )
