@@ -6,7 +6,7 @@ const ProductSection = () => {
       <div className="products-section" id="products-section">
         <div className="product-header">
           <h1>Our Products</h1>
-          <span>Auto Flow makes it easy to draw Auto Flow makes it easy Flow makes it easy to draw</span>
+          <span>We produce Mobile, Web and Desktop applications </span>
         </div>
 
         <div className="products-group">
@@ -15,8 +15,8 @@ const ProductSection = () => {
               <img src="https://www.aluminati.net/wp-content/uploads/2016/03/img-placeholder.png" alt=""/>
             </div>
             <div className="detail">
-              <h3>Joseph Jackson</h3>
-              <p>Auto Flow makes it easy to draw Auto Flow makes it easy Flow makes it easy to draw</p>
+              <h3>Mobile Apps</h3>
+              <p>Mobile applications will connect you to a large number of Android and Iphone users</p>
             </div>
           </div>
 
@@ -25,8 +25,8 @@ const ProductSection = () => {
               <img src="https://www.aluminati.net/wp-content/uploads/2016/03/img-placeholder.png" alt=""/>
             </div>
             <div className="detail">
-              <h3>Joseph Jackson</h3>
-              <p>Auto Flow makes it easy to draw Auto Flow makes it easy Flow makes it easy to draw</p>
+              <h3>Web Portals</h3>
+              <p>Web applications helps in management of products but mostly it shows data insights.</p>
             </div>
           </div>
 
@@ -35,8 +35,8 @@ const ProductSection = () => {
               <img src="https://www.aluminati.net/wp-content/uploads/2016/03/img-placeholder.png" alt=""/>
             </div>
             <div className="detail">
-              <h3>Joseph Jackson</h3>
-              <p>Auto Flow makes it easy to draw Auto Flow makes it easy Flow makes it easy to draw</p>
+              <h3>Desktop Apps</h3>
+              <p>Desktop applications also helps in management but only accessed by one computer</p>
             </div>
           </div>
 

@@ -60,7 +60,7 @@ class Header extends React.Component {
         </div>
         <div className="main-title-container">
           <h2>LET DIGITAL LEAD THE WAY</h2>
-          <span>We make digital lead the way by bringing software applications to your daily life, We give analysed, designed, and implemented world-class applications.</span>
+          <span>We make digital lead the way by bringing software applications to your daily life, We provide analysed, designed, and implemented world-class applications.</span>
         </div>
       </div>
     )
