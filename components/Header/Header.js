@@ -29,7 +29,9 @@ class Header extends React.Component {
       <div className="header-section" id="home">
         <div className={`header ${this.state.hasScrolled ? 'hascrolled ' : '' }` }>
           <div className="header-group">
-            <div className="logo">Mockup Company</div>
+            <div className="logo">
+              <img src="/buildasoft-logos_white.png" alt="Buildasoft" />
+            </div>
             <div className={`nav-group ${this.state.showMenuMobile ? " display-important" : ""}`}>
               <ul className="nav">
                 <li><a href="#home">Home</a></li>
@@ -60,7 +62,7 @@ class Header extends React.Component {
         </div>
         <div className="main-title-container">
           <h2>LET DIGITAL LEAD THE WAY</h2>
-          <span>We make digital lead the way by bringing software applications to your daily life, We provide analysed, designed, and implemented world-class applications.</span>
+          <span>We make digital lead the way by providing software applications to your daily life, We provide analysed, designed, and secured world-class software applications.</span>
         </div>
       </div>
     )

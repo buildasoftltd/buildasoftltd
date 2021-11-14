@@ -12,30 +12,30 @@ const ProductSection = () => {
         <div className="products-group">
           <div className="product">
             <div className="product-image">
-              <img src="https://www.aluminati.net/wp-content/uploads/2016/03/img-placeholder.png" alt=""/>
+              <img src="/mobile-ui.svg" alt=""/>
             </div>
             <div className="detail">
-              <h3>Mobile Apps</h3>
+              <h3>Mobile Applications</h3>
               <p>Mobile applications will connect you to a large number of Android and Iphone users</p>
             </div>
           </div>
 
           <div className="product">
             <div className="product-image">
-              <img src="https://www.aluminati.net/wp-content/uploads/2016/03/img-placeholder.png" alt=""/>
+              <img src="/ecommerce website.svg" alt=""/>
             </div>
             <div className="detail">
-              <h3>Web Portals</h3>
+              <h3>Web Applications</h3>
               <p>Web applications helps in management of products but mostly it shows data insights.</p>
             </div>
           </div>
 
           <div className="product">
             <div className="product-image">
-              <img src="https://www.aluminati.net/wp-content/uploads/2016/03/img-placeholder.png" alt=""/>
+              <img src="/web-development.svg" className="product-img" alt=""/>
             </div>
             <div className="detail">
-              <h3>Desktop Apps</h3>
+              <h3>Desktop Applications</h3>
               <p>Desktop applications also helps in management but only accessed by one computer</p>
             </div>
           </div>
