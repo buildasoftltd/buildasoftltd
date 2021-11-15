@@ -19,8 +19,8 @@ const TeamSection = () => {
               <div className="member-photo"><img src="/julien.jpeg" alt=""/></div>
               <div className="member-details">
                 <h3>Karangwa Hirwa Julien</h3>
-                <span className="title">Founder and CEO at Buildasoft ltd</span>
-                <p>
+                <span className="title" style={{fontWeight: '300'}}>Founder and CEO at Buildasoft ltd</span>
+                <p style={{fontWeight: '400'}}>
                 Being a friend of orphans has made me be one of them in one way or another. I think having no one around does not mean you can not be with someone, and that is why I am always ready to change what's coming my way if it needs a change of course.
                 </p>
                 <div className="social-icon">

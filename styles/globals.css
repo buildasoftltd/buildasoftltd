@@ -607,7 +607,7 @@ a {
 
   .team-header p {
     padding: 0 20px ;
-    width: 60%;
+    /* width: 100%; */
   }
 
   .team-group {
