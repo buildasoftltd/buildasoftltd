@@ -7,21 +7,18 @@ const Footer = () => {
         <div className="footer-elements">
           <div className="footer-text">
             <h4>CONTACT US</h4>
-            <span>+44 345 678 903 adobexd@mail.com <br/> Find a Store</span>
+            <span>+25 078 206 1714 <br /> buildasoftltd@gmail.com <br/></span>
           </div>
           <div className="footer-text">
-            <h4>CUSTOMER RERVICE</h4>
+            <h4>CUSTOMER SERVICE</h4>
             <ul>
               <li><a href="#">Contact Us</a></li>
-              <li><a href="#">Ordering & Payment</a></li>
-              <li><a href="#">Shipping Returns</a></li>
               <li><a href="#">FAQ</a></li>
             </ul>
           </div>
           <div className="footer-text">
             <h4>INFORMATION</h4>
-            <ul>  
-              <li><a href="#">About Adobe XD Kit</a></li>
+            <ul>
               <li><a href="#">Work With US</a></li>
               <li><a href="#">Privacy </a></li>
               <li><a href="#">FAQ</a></li>
@@ -30,9 +27,9 @@ const Footer = () => {
             </ul>
           </div>
           <div className="footer-text">
-            <h4>Subscribe to AdobeXD via Email</h4>
-            <p className="text-dark">Excepteur sint occaecat cupidatat non <br/> proident, sunt in culpa qui officia</p>
-            <form action="">
+            <h4>Subscribe to Buildasoft ltd via Email</h4>
+            <p className="text-dark">We would love to hear from you. <br/> Subscribe to get more information about us.</p>
+            <form action="#">
               <input type="text" className="form-input" placeholder="Email Address" />
               <button className="btn sub-button ml-15px">SUBSCRIBE</button>
             </form>

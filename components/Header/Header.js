@@ -35,9 +35,9 @@ class Header extends React.Component {
             <div className={`nav-group ${this.state.showMenuMobile ? " display-important" : ""}`}>
               <ul className="nav">
                 <li><a href="#home">Home</a></li>
-                <li><a href="#mission-section">Mission</a></li>
-                <li><a href="#products-section">Product</a></li>
-                <li><a href="#team-section">Team</a></li>
+                <li><a href="#mission-section">About Us</a></li>
+                <li><a href="#products-section">Products</a></li>
+                <li><a href="#team-section">The Founder</a></li>
                 {/* <li><a href="#blog-section">Blog</a></li> */}
               </ul>
             </div>
@@ -62,7 +62,7 @@ class Header extends React.Component {
         </div>
         <div className="main-title-container">
           <h2>LET DIGITAL LEAD THE WAY</h2>
-          <span>We make digital lead the way by providing software applications to your daily life, We provide analysed, designed, and secured world-class software applications.</span>
+          <span>We make digital lead the way by providing software applications to your daily life. We provide analyzed, fast, and secured world-class software applications.</span>
         </div>
       </div>
     )
