@@ -8,10 +8,10 @@ const TeamSection = () => {
           <div className="team-header">
             <h1>Meet The Founder</h1>
             <p>
-            For the first time, Karangwa Hirwa Julien saw a computer early in the 2000s. He wanted to know what was in that box that his father was using. He played a game for the first time on it, got addicted to it, and it led him to skip classes in primary school because He was going to a cyber cafe.<br /><br />
-            Changed locations in Rwanda, but something was always missing in Karangwa's life. Apart from using his friends' computers and gaining skills while others couldn't understand why. He was also trying to search for his laptop. Luckily in 2016, her sister got a 32GB laptop gift from their aunt. And that was the start of his journey since He was using his sister's laptop. <br /><br />
-            Karangwa Hirwa Julien is a self-taught software engineer with more than five years in software engineering. He has worked in different areas of the industry, such as in health, government institutions, Tourism, travel systems, etc.<br /><br />
-            Since then, Karangwa Hirwa Julien has never stopped working towards his dreams. He says: "I am going to change what can change around me."
+              Karangwa Hirwa Julien was 8 years old when he saw first a computer. He became fascinated with the computer, wanting to know everything and more about the strange machine he's father owned. He spent many of his time exploring the desktop and would often be late for school or forget he had homework. Such was the thirst for knowledge he had. <br /><br />
+              Things didn't go well for Julien as his parents wanted him to focus on other career path such as becoming a doctor or an accountant but Julien never gave up on his passion. Whenever he got a free time he would explore the web, memorize software applications or edit pictures. Eventually at the age of 17 His aunt bought him his first 32GB Lenovo laptop and he never looked back. <br /><br />
+              Fast forward to the present day and Karangwa Hirwa Julien is now a self-taught software engineer with more than five years experience. He has put his skills in many different industry, such as in health, government institutions, Tourism, travel systems, NGOs etc. To improve the working environment. <br /><br />
+              Julien stared his own software engineering company with one goal in mind. "Change things for the better with all the skills you got, as well as improve yourself for the better so that those around you can be blessed."
             </p>
           </div>
           <div className="team-group">
@@ -21,7 +21,7 @@ const TeamSection = () => {
                 <h3>Karangwa Hirwa Julien</h3>
                 <span className="title" style={{fontWeight: '300'}}>Founder, and CEO at Buildasoft ltd</span>
                 <p style={{fontWeight: '400'}}>
-                Being a friend of orphans has made me be one of them in one way or another. I think having no one around does not mean you can not be with someone, and that is why I am always ready to change what's coming my way if it needs a change of course.
+                  Being a friend of orphans has made me be one of them in one way or another. I think having no one around does not mean you can not be with someone, and that is why I am always ready to change what's coming my way if it needs a change of course.
                 </p>
                 <div className="social-icon">
                   <span>
