@@ -16,7 +16,7 @@ const TeamSection = () => {
           </div>
           <div className="team-group">
             <div className="team-member">
-              <div className="member-photo"><img src="/julien.jpeg" alt=""/></div>
+              <div className="member-photo"><img src="/julien-dark.jpeg" alt=""/></div>
               <div className="member-details">
                 <h3>Karangwa Hirwa Julien</h3>
                 <span className="title" style={{fontWeight: '300'}}>Founder, and CEO at Buildasoft ltd</span>
