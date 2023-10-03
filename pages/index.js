@@ -11,7 +11,7 @@ import Footer from '../components/Footer/Footer'
 
 export default function Home() {
   return (
-    <div className="">
+    <>
       <Header />
       <MainSection />
       <MissionSection />
@@ -19,6 +19,6 @@ export default function Home() {
       <TeamSection />
       {/* <BlogSection /> */}
       <Footer />
-    </div>
+    </>
   )
 }
