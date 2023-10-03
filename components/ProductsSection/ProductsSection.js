@@ -6,7 +6,7 @@ const ProductSection = () => {
       <div className="products-section" id="products-section">
         <div className="product-header">
           <h1>Our Products</h1>
-          <span>We produce Mobile, Web and Desktop applications </span>
+          <span>Crafting mobile, web, and desktop applications with expertise and precision.</span>
         </div>
 
         <div className="products-group">
@@ -16,7 +16,7 @@ const ProductSection = () => {
             </div>
             <div className="detail">
               <h3>Mobile Applications</h3>
-              <p>Mobile applications will connect you to a large number of Android and Iphone users</p>
+              <p>Mobile applications that seamlessly connect you with a vast Android and iPhone user community.</p>
             </div>
           </div>
 
@@ -26,7 +26,7 @@ const ProductSection = () => {
             </div>
             <div className="detail">
               <h3>Web Applications</h3>
-              <p>Web applications helps in management of products but mostly it shows data insights.</p>
+              <p>Web applications excel in product management and, above all, illuminate actionable data insights.</p>
             </div>
           </div>
 
@@ -36,7 +36,7 @@ const ProductSection = () => {
             </div>
             <div className="detail">
               <h3>Desktop Applications</h3>
-              <p>Desktop applications also helps in management but only accessed by one computer</p>
+              <p>Desktop applications streamline management tasks, albeit exclusively accessible on a single computer.</p>
             </div>
           </div>
 

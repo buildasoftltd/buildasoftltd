@@ -8,31 +8,37 @@ const TeamSection = () => {
           <div className="team-header">
             <h1>Meet The Founder</h1>
             <p>
-              Karangwa Hirwa Julien was 8 years old when he saw first a
-              computer. He became fascinated with the computer, wanting to know
-              everything and more about the strange machine he's father owned.
-              He spent many of his time exploring the desktop and would often be
-              late for school or forget he had homework. Such was the thirst for
-              knowledge he had. <br />
+              Karangwa Hirwa Julien's journey into the world of computers
+              commenced at the tender age of 8, a moment that ignited an
+              insatiable curiosity within him. Intrigued by his father's
+              computer, he embarked on a quest to unravel the mysteries of this
+              captivating machine. In his pursuit of knowledge, Julien often
+              found himself engrossed in exploring the desktop, occasionally
+              forgetting about school assignments. His thirst for knowledge was
+              relentless.
               <br />
-              Things didn't go well for Julien as his parents wanted him to
-              focus on other career path such as becoming a doctor or an
-              accountant but Julien never gave up on his passion. Whenever he
-              got a free time he would explore the web, memorize software
-              applications or edit pictures. Eventually at the age of 17 His
-              aunt bought him his first 32GB Lenovo laptop and he never looked
-              back. <br />
               <br />
-              Fast forward to the present day and Karangwa Hirwa Julien is now a
-              self-taught software engineer with more than five years
-              experience. He has put his skills in many different industry, such
-              as in health, government institutions, Tourism, travel systems,
-              NGOs etc. To improve the working environment. <br />
+              Julien faced opposition from his parents, who aspired for him to
+              follow a more conventional career path, such as becoming a doctor
+              or an accountant. However, his unwavering passion for computers
+              prevailed. He dedicated every free moment to delving into the vast
+              expanse of the internet, mastering various software applications,
+              and refining his skills in image editing. At the age of 17, his
+              aunt gifted him a 32GB Lenovo laptop, a pivotal moment that
+              propelled him further into the world of technology.
               <br />
-              Julien stared his own software engineering company with one goal
-              in mind. "Change things for the better with all the skills you
-              got, as well as improve yourself for the better so that those
-              around you can be blessed."
+              <br />
+              Today, Karangwa Hirwa Julien stands as a self-taught software
+              engineer with over six years of experience. He has leveraged his
+              expertise across diverse industries, including healthcare,
+              government institutions, tourism, travel systems, and
+              non-governmental organizations, all with the aim of enhancing
+              operational efficiency. <br />
+              <br />
+              Julien has established his own software engineering company with a
+              singular mission: "Drive positive change through your skills and
+              continuous self-improvement, ensuring that those around you are
+              blessed by your endeavors."
             </p>
           </div>
           <div className="team-group">
@@ -46,10 +52,11 @@ const TeamSection = () => {
                   Founder, and CTO at Buildasoft Ltd
                 </span>
                 <p style={{ fontWeight: "400" }}>
-                  Being a friend of orphans has made me be one of them in one
-                  way or another. I think having no one around does not mean you
-                  can not be with someone, and that is why I am always ready to
-                  change what's coming my way if it needs a change of course.
+                  My commitment to being a friend to orphans has, in a profound
+                  sense, made me feel akin to them. I firmly believe that
+                  solitude should never equate to loneliness, and as such, I
+                  remain open to reshaping my path whenever circumstances call
+                  for it.
                 </p>
                 <div className="social-icon">
                   <span>

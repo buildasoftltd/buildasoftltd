@@ -8,9 +8,9 @@ const MissionSection = () => {
             <div className="mission-content">
               <h1>About Us</h1>
               <p>
-                Improving the way we deliver software applications to serve our community made us start to work together. We are working towards providing software solutions to society.<br /><br />
-                <b>Buildasoft ltd</b> offers software solutions that are richly in software engineering industry. From analyzing a software product, building as fast as possible, and making it secure through cyber security experts.<br /><br />
-                We are proud to produce unique and personal experience software products that will lead the way for our customers.
+                Joining forces to enhance software delivery for our community, we unite to provide solutions for society's digital needs.<br /><br />
+                <b>Buildasoft Ltd</b> proudly delivers software solutions steeped in software engineering excellence. From meticulous analysis to rapid development, fortified by cybersecurity expertise, we forge innovation with unmatched professionalism.<br /><br />
+                Proudly crafting distinctive, personalized software solutions that pave the path for our valued customers' success.
               </p>
             </div>
             <di className="mission-image">
