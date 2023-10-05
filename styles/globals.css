@@ -197,7 +197,7 @@ a {
   opacity: 0.8;
   z-index: 50;
   position: relative;
-  box-shadow: 5px 8px 10px #727272;
+  box-shadow: 5px 8px 10px #313030;
   padding-left: 30px;
   padding-right: 30px;
   padding-bottom: 10px;
@@ -207,18 +207,18 @@ a {
 .main-title-container h2 {
   letter-spacing: 0px;
   color: #FFFFFF;
-  font-weight: bold;
+  font-weight: bolder;
   font-size: 30px;
   margin-bottom: 10px;
 }
 
 .main-title-container span {
-  font-weight: 300;
-  font-size: 19px;
+  font-weight: 200;
+  font-size: 20px;
   letter-spacing: 1px;
   color: #FFFFFF;
   opacity: 1;
-  line-height: 1.6;
+  line-height: 1.7;
 }
 
 .left-shape{
