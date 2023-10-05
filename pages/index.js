@@ -13,7 +13,6 @@ export default function Home() {
   return (
     <>
       <Header />
-      <MainSection />
       <MissionSection />
       <ProductSection />
       <TeamSection />
