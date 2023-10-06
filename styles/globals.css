@@ -944,3 +944,12 @@ a {
 .logo-pad {
   padding: 10px;
 } */
+
+@media (min-width: 2560px) {
+  .left-shape {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
