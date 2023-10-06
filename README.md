@@ -104,4 +104,4 @@ We welcome contributions from the community. If you'd like to contribute to this
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute this project in accordance with the terms specified in the license.
 
-Thank you for your interest in BuildASoft Ltd and our Next.js project! If you have any questions or need further assistance, please don't hesitate to [contact us](mailto:buildasoftltd@gmail.com).
+Thank you for your interest in BuildASoft Ltd and our Next.js project! If you have any questions or need further assistance, please don't hesitate to [Contact Us](mailto:buildasoftltd@gmail.com).
