@@ -583,7 +583,7 @@ a {
   }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 780px) {
   .right-team {
     position: absolute;
     right: 0;
