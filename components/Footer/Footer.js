@@ -60,19 +60,19 @@ const Footer = () => {
             </ul>
           </div>
           <div className="footer-text">
-            <h4>Subscribe to Buildasoft Ltd via Email</h4>
+            <h4 className="text-lg py-2">Pleased to be of help at Buildasoft Ltd!</h4>
             <p className="text-dark">
-              We would love to hear from you. <br /> Subscribe to get more
+              We would love to hear from you. <br /> Chat or Email with us to get more
               information about us.
             </p>
-            <form action="#">
+            {/* <form action="#">
               <input
                 type="text"
                 className="form-input"
                 placeholder="Email Address"
               />
               <button className="btn sub-button ml-15px">SUBSCRIBE</button>
-            </form>
+            </form> */}
           </div>
         </div>
       </footer>

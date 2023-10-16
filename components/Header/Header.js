@@ -36,7 +36,7 @@ class Header extends React.Component {
               <ul className="nav">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#mission-section">About Us</a></li>
-                <li><a href="#products-section">Products</a></li>
+                <li><a href="#products-section">Services</a></li>
                 <li><a href="#team-section">The Founder</a></li>
                 {/* <li><a href="#blog-section">Blog</a></li> */}
               </ul>

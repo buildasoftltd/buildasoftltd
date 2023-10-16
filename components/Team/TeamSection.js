@@ -41,13 +41,13 @@ const TeamSection = () => {
               blessed by your endeavors."
             </p>
           </div>
-          <div className="team-group">
+          <div className="team-group ">
             <div className="team-member">
               <div className="member-photo">
                 <img src="/julien-dark.jpeg" alt="" />
               </div>
               <div className="member-details">
-                <h3>Karangwa Hirwa Julien</h3>
+                <h3 className="text-2xl">Karangwa Hirwa Julien</h3>
                 <span className="title" style={{ fontWeight: "300" }}>
                   Founder, and CTO at Buildasoft Ltd
                 </span>

@@ -5,8 +5,8 @@ const ProductSection = () => {
     <>
       <div className="products-section" id="products-section">
         <div className="product-header">
-          <h1>Our Products</h1>
-          <span>Crafting mobile, web, and desktop applications with expertise and precision.</span>
+          <h1 className="text-4xl">Our Services</h1>
+          <span className='text-gray-400'>Crafting mobile, web, and desktop applications with expertise and precision.</span>
         </div>
 
         <div className="products-group">
@@ -15,8 +15,8 @@ const ProductSection = () => {
               <img src="/mobile-ui.svg" alt=""/>
             </div>
             <div className="detail">
-              <h3>Mobile Applications</h3>
-              <p>Mobile applications that seamlessly connect you with a vast Android and iPhone user community.</p>
+              <h3 className='text-2xl'>Mobile Applications</h3>
+              <p className='text-md font-light'>Mobile applications that seamlessly connect you with a vast Android and iPhone user community.</p>
             </div>
           </div>
 
@@ -25,8 +25,8 @@ const ProductSection = () => {
               <img src="/ecommerce website.svg" alt=""/>
             </div>
             <div className="detail">
-              <h3>Web Applications</h3>
-              <p>Web applications excel in product management and, above all, illuminate actionable data insights.</p>
+              <h3 className='text-2xl'>Web Applications</h3>
+              <p className='text-md font-light'>Web applications excel in product management and, above all, illuminate actionable data insights.</p>
             </div>
           </div>
 
@@ -35,8 +35,8 @@ const ProductSection = () => {
               <img src="/web-development.svg" className="product-img" alt=""/>
             </div>
             <div className="detail">
-              <h3>Desktop Applications</h3>
-              <p>Desktop applications streamline management tasks, albeit exclusively accessible on a single computer.</p>
+              <h3 className='text-2xl'>Desktop Applications</h3>
+              <p className='text-md font-light'>Desktop applications streamline management tasks, albeit exclusively accessible on a single computer.</p>
             </div>
           </div>
 
