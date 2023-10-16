@@ -60,7 +60,7 @@ const Footer = () => {
             </ul>
           </div>
           <div className="footer-text">
-            <h4 className="text-lg py-2">Pleased to be of help at Buildasoft Ltd!</h4>
+            <h4 className="text-lg font-bold">Delighted to offer my assistance at Buildasoft Ltd.</h4>
             <p className="text-dark">
               We would love to hear from you. <br /> Chat or Email with us to get more
               information about us.
