@@ -5,8 +5,8 @@ const ProductSection = () => {
     <>
       <div className="products-section" id="products-section">
         <div className="product-header">
-          <h1 className="text-4xl">Our Products</h1>
-          <span>Crafting mobile, web, and desktop applications with expertise and precision.</span>
+          <h1 className="text-4xl">Our Services</h1>
+          <span className='text-gray-400'>Crafting mobile, web, and desktop applications with expertise and precision.</span>
         </div>
 
         <div className="products-group">
@@ -16,7 +16,7 @@ const ProductSection = () => {
             </div>
             <div className="detail">
               <h3 className='text-2xl'>Mobile Applications</h3>
-              <p>Mobile applications that seamlessly connect you with a vast Android and iPhone user community.</p>
+              <p className='text-md font-light'>Mobile applications that seamlessly connect you with a vast Android and iPhone user community.</p>
             </div>
           </div>
 
@@ -26,7 +26,7 @@ const ProductSection = () => {
             </div>
             <div className="detail">
               <h3 className='text-2xl'>Web Applications</h3>
-              <p>Web applications excel in product management and, above all, illuminate actionable data insights.</p>
+              <p className='text-md font-light'>Web applications excel in product management and, above all, illuminate actionable data insights.</p>
             </div>
           </div>
 
@@ -36,7 +36,7 @@ const ProductSection = () => {
             </div>
             <div className="detail">
               <h3 className='text-2xl'>Desktop Applications</h3>
-              <p>Desktop applications streamline management tasks, albeit exclusively accessible on a single computer.</p>
+              <p className='text-md font-light'>Desktop applications streamline management tasks, albeit exclusively accessible on a single computer.</p>
             </div>
           </div>
 
