@@ -8,7 +8,7 @@ const Footer = () => {
           <div className="footer-text">
             <h4>CONTACT US</h4>
             <span>
-              +25 079 125 6093 <br /> buildasoftltd@gmail.com <br /><br />
+              +25 078 206 1714 <br /> buildasoftltd@gmail.com <br /><br />
             </span>
             <span style={{fontWeight: "semibold", fontSize: "18px"}}>Social Media: <br /></span>
             <span className="footer-social-media">

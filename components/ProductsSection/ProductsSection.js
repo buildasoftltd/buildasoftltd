@@ -5,8 +5,9 @@ const ProductSection = () => {
     <>
       <div className="products-section" id="products-section">
         <div className="product-header">
-          <h1 className="text-4xl">Our Services</h1>
-          <span className='text-gray-400'>Crafting mobile, web, and desktop applications with expertise and precision.</span>
+          <h3 className='mission-tag'>OUR SERVICES</h3>
+          <h1 className="text-4xl">Customized software development</h1>
+          <span className='text-gray-400'>Providing tailored software development services to optimize business processes and enhance efficiency.</span>
         </div>
 
         <div className="products-group">
@@ -15,8 +16,8 @@ const ProductSection = () => {
               <img src="/mobile-ui.svg" alt=""/>
             </div>
             <div className="detail">
-              <h3 className='text-2xl'>Mobile Applications</h3>
-              <p className='text-md font-light'>Mobile applications that seamlessly connect you with a vast Android and iPhone user community.</p>
+              <h3 className='text-2xl'>Custom software development</h3>
+              <p className='text-md font-light'>Tailored solutions to meet your unique business needs.</p>
             </div>
           </div>
 
@@ -25,8 +26,8 @@ const ProductSection = () => {
               <img src="/ecommerce website.svg" alt=""/>
             </div>
             <div className="detail">
-              <h3 className='text-2xl'>Web Applications</h3>
-              <p className='text-md font-light'>Web applications excel in product management and, above all, illuminate actionable data insights.</p>
+              <h3 className='text-2xl'>Mobile app development</h3>
+              <p className='text-md font-light'>Innovative apps to engage your mobile audience.</p>
             </div>
           </div>
 
@@ -35,8 +36,38 @@ const ProductSection = () => {
               <img src="/web-development.svg" className="product-img" alt=""/>
             </div>
             <div className="detail">
-              <h3 className='text-2xl'>Desktop Applications</h3>
-              <p className='text-md font-light'>Desktop applications streamline management tasks, albeit exclusively accessible on a single computer.</p>
+              <h3 className='text-2xl'>Web applications development</h3>
+              <p className='text-md font-light'>Crafting responsive websites for seamless user experience.</p>
+            </div>
+          </div>
+
+          <div className="product">
+            <div className="product-image">
+              <img src="/mobile-ui.svg" alt=""/>
+            </div>
+            <div className="detail">
+              <h3 className='text-2xl'>UI/UX design</h3>
+              <p className='text-md font-light'>Intuitive designs for exceptional user experiences.</p>
+            </div>
+          </div>
+
+          <div className="product">
+            <div className="product-image">
+              <img src="/ecommerce website.svg" alt=""/>
+            </div>
+            <div className="detail">
+              <h3 className='text-2xl'>Quality assurance</h3>
+              <p className='text-md font-light'>Ensuring flawless performance for your software products.</p>
+            </div>
+          </div>
+
+          <div className="product">
+            <div className="product-image">
+              <img src="/web-development.svg" className="product-img" alt=""/>
+            </div>
+            <div className="detail">
+              <h3 className='text-2xl'>Cloud solutions</h3>
+              <p className='text-md font-light'>Scalable cloud solutions for seamless data management.</p>
             </div>
           </div>
 

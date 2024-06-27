@@ -54,13 +54,13 @@ class Header extends React.Component {
           </div>
 
         </div>
-        <div className="left-shape">
+        <div className="left-shape slide-in">
           <img src="main-pic.svg" alt=""/>
         </div>
-        <div className="right-top-shape">
+        <div className="right-top-shape slide-in-right">
           <img src="top-right.svg" alt=""/>
         </div>
-        <div className="main-title-container">
+        <div className="main-title-container slide-in-bottom">
           <h2>Buildasoft Ltd</h2>
           <p>Innovative and Custom Software Solutions</p>
           <a href="#" className='main-button-container'>VIEW SERVICES</a>
