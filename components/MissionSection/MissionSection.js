@@ -6,16 +6,16 @@ const MissionSection = () => {
       <div className="mission-section" id="mission-section">
           <di className="mission">
             <div className="mission-content">
-              <h1>About Us</h1>
-              <p className='text-2xl font-semibold'>
-                Joining forces to enhance software delivery for our community, we unite to provide solutions for society's digital needs.<br /><br />
-                <b>Buildasoft Ltd</b> proudly delivers software solutions steeped in software engineering excellence. From meticulous analysis to rapid development, fortified by cybersecurity expertise, we forge innovation with unmatched professionalism.<br /><br />
-                Proudly crafting distinctive, personalized software solutions that pave the path for our valued customers' success.
+              <h3 className='mission-tag'>INNOVATIVE SOFTWARE SOLUTIONS</h3>
+              <h2 className='mission-title'>Empowering businesses with cutting-edge technology</h2>
+              <p className='text-2xl' style={{ marginBottom: "20px" }}>
+                Buildasoft Ltd, based in Kigali, is dedicated to providing innovative software solutions tailored to meet the unique needs of businesses.
               </p>
+              <a href="#" className='mission-button'>Get in touch</a>
             </div>
-            <di className="mission-image">
+            <div className="mission-image">
               <img src="/mission_k2.svg" alt=""/>
-            </di>
+            </div>
           </di>
       </div>
     </>

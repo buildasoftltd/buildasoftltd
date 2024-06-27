@@ -7,7 +7,7 @@ function MyApp({ Component, pageProps }) {
       <Head>
         <meta property="og:type" content="website" />
         <meta property="og:title" content={"Buildasoft Ltd"} />
-        <meta property="og:image" content={"/buildasoft-logos_white.png"} />
+        <meta property="og:image" content={"/buildasoft-logo-white.svg"} />
         <meta property="og:image:alt" content={`Buildasoft Ltd Logo`} />
         <meta
           property="og:description"
@@ -21,10 +21,10 @@ function MyApp({ Component, pageProps }) {
         />
         <meta
           name="twitter:image"
-          content="/buildasoft-logos_white.png"
+          content="/buildasoft-logo-white.svg"
         />
 
-        <link rel="icon" href="/buildasoft-logos_white.png" />
+        <link rel="icon" href="/buildasoft-logo-white.svg" />
         <title>Buildasoft Ltd |</title>
       </Head>
       <Component {...pageProps} />
