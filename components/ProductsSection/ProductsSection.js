@@ -16,7 +16,7 @@ const ProductSection = () => {
               <img src="https://cdn.b12.io/client_media/izKCJUi0/d90570ce-345d-11ef-91b0-0242ac110002-jpg-hero_image.jpeg" alt=""/>
             </div>
             <div className="detail">
-              <h3 className='text-2xl'>Custom software development</h3>
+              <h3 className='text-2xl'><a href="#" className='product-name'>Custom software development</a></h3>
               <p className='text-md font-light'>Tailored solutions to meet your unique business needs.</p>
             </div>
           </div>
@@ -26,7 +26,7 @@ const ProductSection = () => {
               <img src="https://cdn.b12.io/client_media/izKCJUi0/d96ff426-345d-11ef-91b0-0242ac110002-jpg-hero_image.jpeg" alt=""/>
             </div>
             <div className="detail">
-              <h3 className='text-2xl'>Mobile app development</h3>
+              <h3 className='text-2xl'><a href="#" className='product-name'>Mobile app development</a></h3>
               <p className='text-md font-light'>Innovative apps to engage your mobile audience.</p>
             </div>
           </div>
@@ -36,7 +36,7 @@ const ProductSection = () => {
               <img src="https://cdn.b12.io/client_media/izKCJUi0/d9aad384-345d-11ef-91b0-0242ac110002-jpg-hero_image.jpeg" className="product-img" alt=""/>
             </div>
             <div className="detail">
-              <h3 className='text-2xl'>Web applications development</h3>
+              <h3 className='text-2xl'><a href="#" className='product-name'>Web applications development</a></h3>
               <p className='text-md font-light'>Crafting responsive websites for seamless user experience.</p>
             </div>
           </div>
@@ -46,7 +46,7 @@ const ProductSection = () => {
               <img src="https://cdn.b12.io/client_media/izKCJUi0/d895ea10-345d-11ef-91b0-0242ac110002-jpg-hero_image.jpeg" alt=""/>
             </div>
             <div className="detail">
-              <h3 className='text-2xl'>UI/UX design</h3>
+              <h3 className='text-2xl'><a href="#" className='product-name'>UI/UX design</a></h3>
               <p className='text-md font-light'>Intuitive designs for exceptional user experiences.</p>
             </div>
           </div>
@@ -56,7 +56,7 @@ const ProductSection = () => {
               <img src="https://cdn.b12.io/client_media/izKCJUi0/d93bd7cc-345d-11ef-91b0-0242ac110002-jpg-hero_image.jpeg" alt=""/>
             </div>
             <div className="detail">
-              <h3 className='text-2xl'>Quality assurance</h3>
+              <h3 className='text-2xl'><a href="#" className='product-name'>Quality assurance</a></h3>
               <p className='text-md font-light'>Ensuring flawless performance for your software products.</p>
             </div>
           </div>
@@ -66,7 +66,7 @@ const ProductSection = () => {
               <img src="https://cdn.b12.io/client_media/izKCJUi0/d8cceb8c-345d-11ef-91b0-0242ac110002-jpg-hero_image.jpeg" className="product-img" alt=""/>
             </div>
             <div className="detail">
-              <h3 className='text-2xl'>Cloud solutions</h3>
+              <h3 className='text-3xl'><a href="#" className='product-name'>Cloud solutions</a></h3>
               <p className='text-md font-light'>Scalable cloud solutions for seamless data management.</p>
             </div>
           </div>
