@@ -1,0 +1,20 @@
+/* styles/Animation.module.css */
+
+.container {
+  overflow: hidden; /* Ensures the image starts hidden */
+  width: 100%;
+  max-width: 600px; /* Adjust as needed */
+  position: relative;
+}
+
+.slideInBottom {
+  width: 100%;
+  opacity: 0; /* Start invisible */
+  transform: translateY(100%); /* Start out of view */
+  transition: transform 2s, opacity 2s; /* Smooth transition */
+}
+
+.active {
+  opacity: 1; /* Become visible */
+  transform: translateY(0); /* Move to original position */
+}

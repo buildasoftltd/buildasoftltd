@@ -3,7 +3,7 @@ import React from 'react'
 const ProductSection = () => {
   return (
     <>
-      <div className="products-section" id="products-section">
+      <div className="products-section">
         <div className="product-header">
           <h3 className='mission-tag'>OUR SERVICES</h3>
           <h1 className="text-4xl">Customized software development</h1>
@@ -13,7 +13,7 @@ const ProductSection = () => {
         <div className="products-group">
           <div className="product">
             <div className="product-image">
-              <img src="/mobile-ui.svg" alt=""/>
+              <img src="https://cdn.b12.io/client_media/izKCJUi0/d90570ce-345d-11ef-91b0-0242ac110002-jpg-hero_image.jpeg" alt=""/>
             </div>
             <div className="detail">
               <h3 className='text-2xl'>Custom software development</h3>
@@ -23,7 +23,7 @@ const ProductSection = () => {
 
           <div className="product">
             <div className="product-image">
-              <img src="/ecommerce website.svg" alt=""/>
+              <img src="https://cdn.b12.io/client_media/izKCJUi0/d96ff426-345d-11ef-91b0-0242ac110002-jpg-hero_image.jpeg" alt=""/>
             </div>
             <div className="detail">
               <h3 className='text-2xl'>Mobile app development</h3>
@@ -33,7 +33,7 @@ const ProductSection = () => {
 
           <div className="product">
             <div className="product-image">
-              <img src="/web-development.svg" className="product-img" alt=""/>
+              <img src="https://cdn.b12.io/client_media/izKCJUi0/d9aad384-345d-11ef-91b0-0242ac110002-jpg-hero_image.jpeg" className="product-img" alt=""/>
             </div>
             <div className="detail">
               <h3 className='text-2xl'>Web applications development</h3>
@@ -43,7 +43,7 @@ const ProductSection = () => {
 
           <div className="product">
             <div className="product-image">
-              <img src="/mobile-ui.svg" alt=""/>
+              <img src="https://cdn.b12.io/client_media/izKCJUi0/d895ea10-345d-11ef-91b0-0242ac110002-jpg-hero_image.jpeg" alt=""/>
             </div>
             <div className="detail">
               <h3 className='text-2xl'>UI/UX design</h3>
@@ -53,7 +53,7 @@ const ProductSection = () => {
 
           <div className="product">
             <div className="product-image">
-              <img src="/ecommerce website.svg" alt=""/>
+              <img src="https://cdn.b12.io/client_media/izKCJUi0/d93bd7cc-345d-11ef-91b0-0242ac110002-jpg-hero_image.jpeg" alt=""/>
             </div>
             <div className="detail">
               <h3 className='text-2xl'>Quality assurance</h3>
@@ -63,7 +63,7 @@ const ProductSection = () => {
 
           <div className="product">
             <div className="product-image">
-              <img src="/web-development.svg" className="product-img" alt=""/>
+              <img src="https://cdn.b12.io/client_media/izKCJUi0/d8cceb8c-345d-11ef-91b0-0242ac110002-jpg-hero_image.jpeg" className="product-img" alt=""/>
             </div>
             <div className="detail">
               <h3 className='text-2xl'>Cloud solutions</h3>
