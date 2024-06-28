@@ -76,6 +76,7 @@ const ProductSection = () => {
           <img src="Path 364.svg" alt=""/>
         </div>
       </div>
+      <div id="team-section" style={{ padding: "45px" }}></div>
     </>
   )
 }

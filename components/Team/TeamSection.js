@@ -3,42 +3,35 @@ import React from "react";
 const TeamSection = () => {
   return (
     <>
-      <div className="team-section" id="team-section">
+      <div className="team-section">
         <div className="team">
           <div className="team-header">
-            <h1>Meet The Founder</h1>
+            <h4 className="mission-tag">THE FOUNDER</h4>
+            <h1 style={{paddingBottom: "10px"}}>Meet Our Visionary Founder</h1>
             <p>
-              Karangwa Hirwa Julien's journey into the world of computers
-              commenced at the tender age of 8, a moment that ignited an
-              insatiable curiosity within him. Intrigued by his father's
-              computer, he embarked on a quest to unravel the mysteries of this
-              captivating machine. In his pursuit of knowledge, Julien often
-              found himself engrossed in exploring the desktop, occasionally
-              forgetting about school assignments. His thirst for knowledge was
-              relentless.
+              Karangwa Hirwa Julien, founder and Chief Technology Officer of
+              Buildasoft Ltd, began his tech journey at just 8 years old, driven
+              by an insatiable curiosity for computers. Despite early challenges
+              and traditional expectations, his passion for technology never
+              faltered. Today, Julien is a self-taught software engineer with
+              over six years of experience across healthcare, government,
+              tourism, and NGOs.
               <br />
               <br />
-              Julien faced opposition from his parents, who aspired for him to
-              follow a more conventional career path, such as becoming a doctor
-              or an accountant. However, his unwavering passion for computers
-              prevailed. He dedicated every free moment to delving into the vast
-              expanse of the internet, mastering various software applications,
-              and refining his skills in image editing. At the age of 17, his
-              aunt gifted him a 32GB Lenovo laptop, a pivotal moment that
-              propelled him further into the world of technology.
+              Julien's professional background includes senior roles at
+              prominent companies like Andela and TrustStamp, where he honed his
+              skills in software architecture and full-stack development. At
+              Buildasoft Ltd, he leads a team dedicated to creating innovative
+              software solutions.
               <br />
               <br />
-              Today, Karangwa Hirwa Julien stands as a self-taught software
-              engineer with over six years of experience. He has leveraged his
-              expertise across diverse industries, including healthcare,
-              government institutions, tourism, travel systems, and
-              non-governmental organizations, all with the aim of enhancing
-              operational efficiency. <br />
+              With a mission to drive positive change through continuous
+              self-improvement and impactful software engineering, Julien
+              ensures that Buildasoft Ltd remains at the forefront of delivering
+              exceptional web and mobile applications. Join Buildasoft Ltd and
+              experience the expertise and vision of a leader committed to
+              excellence and innovation in the tech industry. <br />
               <br />
-              Julien has established his own software engineering company with a
-              singular mission: "Drive positive change through your skills and
-              continuous self-improvement, ensuring that those around you are
-              blessed by your endeavors."
             </p>
           </div>
           <div className="team-group ">
@@ -52,11 +45,10 @@ const TeamSection = () => {
                   Founder, and CTO at Buildasoft Ltd
                 </span>
                 <p style={{ fontWeight: "400" }}>
-                  My commitment to being a friend to orphans has, in a profound
-                  sense, made me feel akin to them. I firmly believe that
-                  solitude should never equate to loneliness, and as such, I
-                  remain open to reshaping my path whenever circumstances call
-                  for it.
+                  In every line of code I write, I see a chance to make
+                  someone's life a little better. Technology isn't just about
+                  solving problems; it's about creating opportunities for
+                  connection, growth, and hope.
                 </p>
                 <div className="social-icon">
                   <span>
