@@ -63,7 +63,7 @@ class Header extends React.Component {
         <div className="main-title-container slide-in-bottom">
           <h2>Buildasoft Ltd</h2>
           <p>Innovative and Custom Software Solutions</p>
-          <a href="#" className='main-button-container'>VIEW SERVICES</a>
+          <a href="#products-section" className='main-button-container'>VIEW SERVICES</a>
         </div>
       </div>
     )

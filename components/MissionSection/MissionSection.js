@@ -30,7 +30,7 @@ const MissionSection = () => {
     <>
       <div className="mission-section" id="mission-section">
         <div className="mission">
-          <div className="mission-content">
+          <div className={`mission-content`}>
             <h3 className={`mission-tag slide-in`}>
               INNOVATIVE SOFTWARE SOLUTIONS
             </h3>

@@ -1,4 +1,5 @@
 import React from 'react'
+import "./ProductsSection.module.css"
 
 const ProductSection = () => {
   return (
@@ -6,7 +7,7 @@ const ProductSection = () => {
       <div className="products-section">
         <div className="product-header">
           <h3 className='mission-tag'>OUR SERVICES</h3>
-          <h1 className="text-4xl">Customized software development</h1>
+          <h1 className="text-4xl">Tailored Software Solutions</h1>
           <span className='text-gray-400'>Providing tailored software development services to optimize business processes and enhance efficiency.</span>
         </div>
 
